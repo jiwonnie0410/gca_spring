@@ -24,7 +24,6 @@
 - [빌드배포] Maven, Jenkins
 - [테스트 툴] JUnit, PMD, JMeter   
 - [형상관리] GitHub   
-- [테스트 툴]  JUnit, PMD, Jmeter
 
 #### 사용 API
 - Spring Security (https://docs.spring.io/spring-security/site/docs/4.2.12.RELEASE/apidocs/)
